@@ -4,6 +4,5 @@ Sapienza University of Rome, MSc. of Data Science 
 
 ## Team members:
 Arman Feili
-Milad Torabi
 
 ## Description:
